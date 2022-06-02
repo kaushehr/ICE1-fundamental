@@ -3,6 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+
 package cardtrickice1;
 
 /** define card value and suits
@@ -10,6 +12,7 @@ package cardtrickice1;
  *
  * @author sivagamasrinivasan
  */
+
 public class Card 
 {
     private int value;
@@ -47,5 +50,6 @@ public class Card
    //number
     
     //method for suits
-    
+
+   
 }
